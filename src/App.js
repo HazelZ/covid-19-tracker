@@ -14,7 +14,7 @@ const App = () => {
   },[]);
   return (
     <div className={styles.container}>
-      <h1>test jenkins</h1>
+      <h1>test</h1>
       <div className={styles['img-container']}>
         <img src={Icon} alt="Covid-19 icon" className={styles.img}/>
       </div>
